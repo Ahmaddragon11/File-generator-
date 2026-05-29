@@ -1,0 +1,6 @@
+{
+  "name": "مولد ومشارك الملفات العشوائية",
+  "description": "تطبيق لإنشاء ملفات عشوائية ومخصصة بأي حجم وصيغة تريدها، مع توفير روابط تحميل مباشرة وصالحة للمشاركة الفورية مع الآخرين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
